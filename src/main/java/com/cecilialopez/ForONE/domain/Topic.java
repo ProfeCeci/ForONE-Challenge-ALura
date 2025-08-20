@@ -30,4 +30,8 @@ public class Topic {
     private String author;
     private String course;
 
+    public void deactivate() {
+        this.status = false;
+    }
+
 }
