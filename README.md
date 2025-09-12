@@ -79,6 +79,3 @@ Puedes usar herramientas como **Postman**, **Insomnia** o `cURL` para interactua
 ### **Créditos**
 
 Este proyecto es parte del programa ONE (Oracle Next Education) de Alura Latam.
-
-[Git y GitHub para Principiantes](https://www.youtube.com/watch?v=-LmFK6skG7s) es un video útil para quienes se están familiarizando con el uso de estas herramientas.
-http://googleusercontent.com/youtube_content/0
